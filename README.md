@@ -15,6 +15,8 @@
 
 
 ### Deploy to Heroku
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=WiYLOX&referralCode=VzISR7)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suroj02042001/Google-Translater-)
 
 ### License
